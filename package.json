@@ -1,0 +1,15 @@
+{
+  "name": "remedial-oop",
+  "version": "1.0.0",
+  "description": "An OOP Introduction for Procedural Programmers",
+  "main": "index.html",
+  "repository": "https://github.com/Programming-0101/Remedial-OOP",
+  "author": "Dan Gilleland dagilleland <dagilleland@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
